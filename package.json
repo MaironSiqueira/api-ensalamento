@@ -1,0 +1,25 @@
+{
+  "name": "api-ensalamento",
+  "version": "1.0.0",
+  "description": "Api do projeto do sitema de situação de aprendizagem",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaironSiqueira/api-ensalamento.git"
+  },
+  "keywords": [
+    "API",
+    "nodeJS",
+    "Express",
+    "Senai"
+  ],
+  "author": "Mairon siqueira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaironSiqueira/api-ensalamento/issues"
+  },
+  "homepage": "https://github.com/MaironSiqueira/api-ensalamento#readme"
+}
